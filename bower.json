@@ -1,0 +1,23 @@
+{
+  "name": "Amplicon Aligner",
+  "authors": [
+    "dancmj <daniel.c82@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "clipboard": "^1.5.8",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "fontawesome#^4.5.0"
+  }
+}
